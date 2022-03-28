@@ -95,7 +95,7 @@ int main()
 
 	
 
-	//Zadanie : Używajac biblioteki ranges - wypisz 20 liczb pierwszych począwszy od 100000.
+	//Zadanie 4: Używajac biblioteki ranges - wypisz 20 liczb pierwszych począwszy od 100000.
 
 	std::cout << "\nzadanie 4\n";
 
